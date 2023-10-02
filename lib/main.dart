@@ -31,11 +31,11 @@ class _InicioState extends State<Inicio> {
         body: ListView(
           children: <Widget>[
             //CÓDIGO PARA AGREGAR IMAGENES DESDE INTERNET...........................
-            // Container(
-            //   padding: EdgeInsets.all(10.0),
-            //   child: Image.network(
-            //       "https://i.pinimg.com/originals/b3/e7/9b/b3e79bfc4d5b50691edafedfd9eaf659.png"),
-            // ),
+            Container(
+              padding: EdgeInsets.all(10.0),
+              child: Image.network(
+                  "https://i.pinimg.com/originals/b3/e7/9b/b3e79bfc4d5b50691edafedfd9eaf659.png"),
+            ),
             // Container(
             //   padding: EdgeInsets.all(10.0),
             //   child: Image.network(
