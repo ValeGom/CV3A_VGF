@@ -26,7 +26,7 @@ class _InicioState extends State<Inicio> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: Text("Valentina G F"),
+          title: Text("Valentina GOMEZ FERMIN, 22TE0003P"),
         ),
         body: ListView(
           children: <Widget>[
